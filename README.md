@@ -1,16 +1,16 @@
-## Hi there 👋
 
-<!--
-**sinyunchan/sinyunchan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="Center"></h1>
 
-Here are some ideas to get you started:
+<div align="center">
+  <img src="https://i.pinimg.com/originals/86/d7/5a/86d75a902dda5a4c6ac4b95d8a5afba4.gif"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<h2 align="left">🧑‍💻 Current Skills</h2>
+<br>
+<pre align="center">
+                                                                                                                         
+I Can Do anything (I repeat Anything)
+         난 뭐든지 할 수 있어
+             South Korea 
+</pre>
