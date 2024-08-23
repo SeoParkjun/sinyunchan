@@ -6,7 +6,7 @@
 </div>
 
 
-<h2 align="left">🧑‍💻 Current Skills</h2>
+<h2 align="left">About me ? ah </h2>
 <br>
 <pre align="center">
                                                                                                                          
